@@ -1,3 +1,8 @@
+//get coookies from any header and add them to the request headers
+//parse cookies to get token
+//generate responce body based on acquired token
+
+
 Given request body: {
 "defaultLists": "false"
 "name": "passpart"
